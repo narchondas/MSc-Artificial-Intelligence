@@ -1,10 +1,10 @@
 ## E-Portfolio of   
 
-![](https://user-images.githubusercontent.com/36738165/119046119-505f9980-b98a-11eb-9e40-7e4173db03f3.png)
+![]()
 
-# Steve Johnson, CISSP, CVP       
+# Nikos Archontas      
 
-## MSc. Cybersecurity Cohort May 2021
+## MSc. Artificial Intelligence Cohort July 2024
 
 ---
 
