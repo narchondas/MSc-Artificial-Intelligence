@@ -46,7 +46,7 @@ The administrative reform process is a magnificent ‘journey’ full of excitem
 *   [Induction Module](https://github.com/crypto61/eportfolio/blob/master/Induction.md)
 *   [Module 1 **Launching into Cyber Security**](https://github.com/crypto61/eportfolio/blob/master/LCYS.md)
 *   [Module 2 Title](http://example.com/)
-*   [Module 3 **Machine Learning** 
+*   [Module 3 **Machine Learning**](https://github.com/narchondas/MSc-Artificial-Intelligence/blob/master/Learning%20Outcomes%20Machine%20Learning.docx) 
 *   [Module 4 Title](http://example.com/)
 *   [Module 5 Title](http://example.com/)
 
