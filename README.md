@@ -1,8 +1,8 @@
-## Developer Portfolio Landing Page Template
+## E-portfolio for MSc Artificial Intelligence
 
 ### Introduction
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+This is my e-portfolio for the MSc Artificial Intelligence learning experience
 
 <img src="images/demo.gif?raw=true"/>
 
