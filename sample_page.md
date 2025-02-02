@@ -1,31 +1,28 @@
-## This can be your internal website page / project page
+## Module 3 Machine Learning 
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Learning objectives:** 
 
-### 1. Suggest hypotheses about the causes of observed phenomena
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+### 1. In the module Machine Learning I shall:
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
 
-### 2. Assess assumptions on which statistical inference will be based
+	Learn about the key paradigms and algorithms in machine learning.
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+	Get an understanding of data analytics based on machine learning and using modern programming tools, such as Python or R.
 
-### 3. Support the selection of appropriate statistical tools and techniques
+	Experience how machine learning and data analytics can be used in real-world applications.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+	Acquire the ability to gather and synthesise information from multiple sources to aid in the systematic analysis of complex problems using machine learning tools and algorithms.
 
-### 4. Provide a basis for further data collection through surveys or experiments
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+### 2. On completion of the module Machine Learning, I will be able to:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+	Articulate the legal, social, ethical, and professional issues faced by machine learning professionals.
+
+	Understand the applicability and challenges associated with different datasets for the use of machine learning algorithms.
+
+	Apply and critically appraise machine learning techniques to real-world problems, particularly where technical risk and uncertainty is involved.
+
+	Systematically develop and implement the skills required to be effective member of a development team in a virtual professional environment, adopting real-life perspectives on team roles and organisation.
+
