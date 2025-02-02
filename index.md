@@ -21,6 +21,25 @@ The administrative reform process is a magnificent ‘journey’ full of excitem
 
 ### University of Essex Learning Experience
 
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Module 3 Machine Learning</title>
+</head>
+<body>
+    <h1>Welcome to MOdule 3 Machine Learning</h1>
+    <p>This is my e-portfolio where I keep record of my learning experience.</p>
+
+    <!-- Add a new chapter -->
+    <h2>learning outcomes I gained in Module 3</h2>
+    <p>Here are some of my learning outcomes:</p>
+    <ul>
+        <li>E-portfolio on GitHub</li>
+        <li>Data Analysis</li>
+        <li>Project Management</li>
+    </ul>
+</body>
+</html>
 *   [Induction Module](https://github.com/crypto61/eportfolio/blob/master/Induction.md)
 *   [Module 1 **Launching into Cyber Security**](https://github.com/crypto61/eportfolio/blob/master/LCYS.md)
 *   [Module 2 Title](http://example.com/)
